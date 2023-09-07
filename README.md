@@ -18,6 +18,8 @@ command to start the Projects You have to install Node Modules so First
 ## npm i
 ## npm run start 
 
+## Make Sure Django Backend is running on PORT 8001
+
 it's api urls 
 
 http://localhost:8001/createuser
